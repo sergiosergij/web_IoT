@@ -1,0 +1,168 @@
+
+.features{
+    display:flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.features_title{
+    font-size: 40px;
+    line-height: 130%;
+    text-align: center;
+}
+.features_txt{
+    font-size: 23px;
+    line-height: 160%;
+    text-align: center;
+    width: 584px;
+    margin: 0 auto;
+}
+.f_table{
+    display: flex;
+}
+
+.f_table_1{
+    display: flex;
+    background-image: url(file:///D:/IOT%20-%2023/Web/image/features_1.svg);
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.f_table_1_img{
+    padding-top: 73px;
+}
+.f_table_1_content{
+    padding-top: 50px;
+    padding-left: 29.3px;
+    padding-right: 50px;
+}
+.f_table_1_title{
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 130%;
+}
+.f_table_1_txt{
+    width: 220px;
+    font-size: 16px;
+    line-height: 160%;
+}
+.f_table_1_content_learnmore{
+    display: flex;
+}
+
+.f_table_1_learnmore{
+    padding-right: 20px;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 160%;
+    color: #212353;
+}
+
+.f_table_2{
+    display: flex;
+    padding-right: 50px;
+    background-image: url(file:///D:/IOT%20-%2023/Web/image/features_2.svg);
+    background-repeat: no-repeat;
+    background-position: 160px 34px;
+    padding-bottom: 30px;
+}
+.f_table_2_content{
+    margin-top: 50px;
+}
+.f_table_2_img{
+    padding-left: 93px;
+}
+.f_table_2_title{
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 130%;
+}
+.f_table_2_txt{
+    width: 220px;
+    font-size: 16px;
+    line-height: 160%;
+}
+.f_table_2_content_learnmore{
+    display: flex;
+}
+
+.f_table_2_learnmore{
+    padding-right: 20px;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 160%;
+    color: #212353;
+}
+.f_table_3{
+    padding-top: 50px;
+    display: flex;
+    background-image: url(file:///D:/IOT%20-%2023/Web/image/features_3.svg);
+    background-repeat: no-repeat;
+    background-position: 90px 70px;
+}
+.f_table_3_img{
+    padding-top: 73px;
+}
+.f_table_3_content{
+    padding-top: 50px;
+    padding-left: 29.3px;
+    padding-right: 50px;
+}
+.f_table_3_title{
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 130%;
+}
+.f_table_3_txt{
+    width: 220px;
+    font-size: 16px;
+    line-height: 160%;
+}
+.f_table_3_content_learnmore{
+    display: flex;
+}
+
+.f_table_3_learnmore{
+    padding-right: 20px;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 160%;
+    color: #212353;
+}
+
+.f_table_4{
+    margin-top:50px;
+    height: 400px;
+    display: flex;
+    background-image: url(file:///D:/IOT%20-%2023/Web/image/features_4.svg);
+    background-repeat: no-repeat;
+    background-position: 145px 10px;
+}
+.f_table_4_content{
+    padding-top: 50px;
+    padding-right: 100px;
+}
+.f_table_4_img{
+    padding-left: 93px;
+    padding-top: 36px;
+}
+.f_table_4_title{
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 130%;
+}
+.f_table_4_txt{
+    width: 220px;
+    font-size: 16px;
+    line-height: 160%;
+}
+.f_table_4_content_learnmore{
+    display: flex;
+}
+
+.f_table_4_learnmore{
+    padding-right: 20px;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 160%;
+    color: #212353;
+}

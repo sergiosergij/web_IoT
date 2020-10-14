@@ -1,0 +1,30 @@
+main{
+    max-width: 1120px;
+    margin: 0 auto;
+    margin-top: 99.18px;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(241, 158, 235, 0.884);
+    border-radius: 50px;
+}
+.main_img{
+    max-width: 100%;
+}
+.main_title{
+    padding-right: 96px;
+    width: 475px;
+    font-size: 40px;
+    line-height: 130%;
+}
+.main_txt{
+    padding-top:40px;
+    padding-right: 96px;
+    width: 474px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+}
+

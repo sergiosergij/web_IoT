@@ -1,0 +1,70 @@
+@import "normalize.min.css";
+@import "global.css";
+@import "header.css";
+@import "main.css";
+@import "features.css";
+@import "table.css";
+@import "footer.css";
+
+
+@media screen and (max-width:800px){
+.header{
+    background-image: none;
+    width:500px;
+}
+.logo{
+    padding-right: 5px;
+}
+.button_request{
+    margin-left: 0px;
+}
+.header_nav{
+    align-items: center;
+    flex-direction: column;
+}
+.header_title{
+    width:500px;
+    text-align: center;
+}
+.header_txt{
+    width:400px;
+    text-align: center;
+    margin: 0 auto;
+}
+.info{
+    width:500px;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.main{
+    width: 500px;
+}
+.main_info{
+    width:400px;
+    margin-right: 0;
+    display: flex;
+    flex-direction: column;
+}
+.main_title{
+    width: auto;
+    text-align: center;
+    padding-right: 0px;
+}
+.main_txt{
+    width: auto;
+    padding-right: 0px;
+    text-align: center;
+}
+.header_learnmore{
+    margin-left: 50px;
+}
+.features_txt{
+    width: auto;
+}
+.table{
+    flex-direction: column;
+}
+
+}
+@media screen and (max-width:1000px){
+}
